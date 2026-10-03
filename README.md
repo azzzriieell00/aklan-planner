@@ -30,6 +30,8 @@ The live demo is hosted on GitHub Pages. The included deployment workflow builds
 
 ## Run in Visual Studio Code
 
+For drawing controls, missing records, storage recovery, and export differences, see the [troubleshooting guide](docs/TROUBLESHOOTING.md).
+
 Install Node.js **24 LTS** and open this project folder in VS Code. The supported minimum is Node 22.12. In the terminal:
 
 ```sh
