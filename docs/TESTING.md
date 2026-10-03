@@ -23,6 +23,12 @@ Tests ran on an isolated `http://localhost:5173/` origin, separate from the user
 9. Feature-detected browser tools listed existing records and selected a valid record; a missing ID was rejected without changing data.
 10. Polygon rendering uses SVG to avoid a pending Canvas redraw accessing a removed context during development hot reload.
 
-## Limits of verification
+## GitHub and live-site verification
 
-GitHub workflows are included but have not run on the user's repository, and GitHub Pages has not been published. Authenticated imagery using a user-supplied key has not been tested. Browser storage capacity varies; representative small records were tested, not every possible 500-record / complex-geometry workload. Official zoning, cadastral and hazard accuracy cannot be tested because those datasets are not bundled. Repeat the automated checks and the relevant browser workflow when modifying the app.
+Published on 3 October 2026 at [azzzriieell00/aklan-planner](https://github.com/azzzriieell00/aklan-planner). All 35 uploaded source files matched the original Git blob hashes; no files were missing or added. [CI](https://github.com/azzzriieell00/aklan-planner/actions/runs/37114636620) and [GitHub Pages deployment](https://github.com/azzzriieell00/aklan-planner/actions/runs/37114732314) succeeded, including all 18 tests, data verification, and the production build.
+
+The [live app](https://azzzriieell00.github.io/aklan-planner/) loaded the bundled Aklan boundaries and Esri World Imagery. Demo mode showed 14 parcels and 17 total sample records. Selecting an irregular parcel opened its details, area estimate, source label, and close control. These checks confirm the published app loads; the more detailed browser checks above were performed locally.
+
+## Remaining limits
+
+Authenticated imagery using a user-supplied key has not been tested. Browser storage capacity varies; representative small records were tested, not every possible 500-record / complex-geometry workload. Official zoning, cadastral and hazard accuracy cannot be tested because those datasets are not bundled. Repeat the automated checks and the relevant browser workflow when modifying the app.
