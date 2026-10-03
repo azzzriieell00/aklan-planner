@@ -1,0 +1,36 @@
+{
+  "application": "Aklan Planner",
+  "acquiredAt": "2026-10-03",
+  "coordinateSystem": "WGS84 longitude, latitude (RFC 7946)",
+  "attribution": "geoBoundaries; National Mapping and Resource Information Authority (NAMRIA), Philippine Statistics Authority (PSA), OCHA Philippines; 2020 reference",
+  "license": "CC BY 3.0 IGO as recorded in the source metadata; geoBoundaries gbOpen release attribution also applies",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/igo/",
+  "changes": "Extracted Aklan and its 17 municipalities from pinned, already simplified national geometry. Sorted municipalities and added source, reference-year, license, and use-limit properties. No further simplification; islands preserved.",
+  "limits": "Administrative context only. Simplification can differ from current or surveyed boundaries; not cadastral data, legal zoning, or a jurisdiction determination.",
+  "datasets": [
+    {
+      "file": "aklan-boundary.geojson",
+      "level": "ADM2",
+      "boundaryId": "PHL-ADM2-2640588",
+      "referenceYear": 2020,
+      "buildDate": "2023-07-05",
+      "featureCount": 1,
+      "metadataUrl": "https://www.geoboundaries.org/api/current/gbOpen/PHL/ADM2/",
+      "downloadUrl": "https://github.com/wmgeolab/geoBoundaries/raw/41af8f1/releaseData/gbOpen/PHL/ADM2/geoBoundaries-PHL-ADM2_simplified.geojson",
+      "sourceSha256": "fa77b9f17db2e419acaae714a935f7812be4409e2983675d34020e8426a3e189",
+      "sha256": "bc29ca7fd75d1b6ffbb84fe8a48c15764ab443b110fb690a3b77933583bf2f66"
+    },
+    {
+      "file": "aklan-municipalities.geojson",
+      "level": "ADM3",
+      "boundaryId": "PHL-ADM3-30758251",
+      "referenceYear": 2020,
+      "buildDate": "2023-12-12",
+      "featureCount": 17,
+      "metadataUrl": "https://www.geoboundaries.org/api/current/gbOpen/PHL/ADM3/",
+      "downloadUrl": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PHL/ADM3/geoBoundaries-PHL-ADM3_simplified.geojson",
+      "sourceSha256": "2ece3d44a5c6a2afb385ffbf3a6b88d83e4d3a3e7eed9a52cb3be1bc59e289fc",
+      "sha256": "6576da1dc37f4f137f3b1537b47b34b254b6ba614bc0715634baa6ac249aa355"
+    }
+  ]
+}
