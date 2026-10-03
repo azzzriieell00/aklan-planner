@@ -36,7 +36,7 @@ The workspace supports up to 500 records and 500 reviews, but browser storage ca
 
 ## A review or export does not contain what you expected
 
-To save an assessment, select a parcel, choose **Inspect / review this record**, enter **Your name** and **Assessment**, select the **Review state**, then choose **Save review**. Open **Reviews → Report** for the saved HTML report and its **Print / save PDF** button.
+To save an assessment, select a parcel, choose **Inspect / review this record**, enter **Your name** and **Assessment**, select the **Review state**, then choose **Save review**. Open **Workspace tools → Saved parcel reviews → Report** for the saved HTML report and its **Print / save PDF** button. This path works on phones and in both Map view and Workbench; desktop users can also use **Reviews** in the header.
 
 **Backup** includes all workspace records and saved review snapshots. **Export GeoJSON** below the map includes current records in the active **My GIS** or **Demo** workspace; it does not include review history. Later record edits do not update an existing saved review. Save a new review after changes to retain the revised evidence.
 
