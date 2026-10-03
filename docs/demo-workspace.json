@@ -1,0 +1,1119 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.367,
+              11.699
+            ],
+            [
+              122.37,
+              11.699
+            ],
+            [
+              122.37,
+              11.701
+            ],
+            [
+              122.367,
+              11.701
+            ],
+            [
+              122.367,
+              11.699
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "94ca409b-80bd-4965-a179-1f025cf81a4f",
+        "kind": "parcel",
+        "name": "Demo parcel 01",
+        "municipality": "Kalibo",
+        "barangay": "",
+        "reference": "SYNTHETIC",
+        "category": "Unknown",
+        "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+        "sourceDate": "2026-10-03",
+        "verification": "draft",
+        "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+        "demo": true,
+        "createdAt": "2026-10-03T08:58:44.307Z",
+        "updatedAt": "2026-10-03T08:58:44.307Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.3704,
+              11.699
+            ],
+            [
+              122.3724,
+              11.699
+            ],
+            [
+              122.3724,
+              11.701
+            ],
+            [
+              122.3704,
+              11.701
+            ],
+            [
+              122.3704,
+              11.699
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "e391d1b8-3efb-4f7e-83da-8fddbc2740e5",
+        "kind": "parcel",
+        "name": "Demo parcel 02",
+        "municipality": "Kalibo",
+        "barangay": "",
+        "reference": "SYNTHETIC",
+        "category": "Agricultural",
+        "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+        "sourceDate": "2026-10-03",
+        "verification": "draft",
+        "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+        "demo": true,
+        "createdAt": "2026-10-03T08:58:44.331Z",
+        "updatedAt": "2026-10-03T08:58:44.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.3665,
+              11.6985
+            ],
+            [
+              122.3685,
+              11.6985
+            ],
+            [
+              122.3685,
+              11.7015
+            ],
+            [
+              122.3665,
+              11.7015
+            ],
+            [
+              122.3665,
+              11.6985
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "5fbcc135-355a-4e42-babf-1527a4b2af1c",
+        "kind": "zone",
+        "name": "Demo residential zone",
+        "municipality": "Kalibo",
+        "barangay": "",
+        "reference": "SYNTHETIC",
+        "category": "Residential",
+        "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+        "sourceDate": "2026-10-03",
+        "verification": "draft",
+        "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+        "demo": true,
+        "createdAt": "2026-10-03T08:58:44.331Z",
+        "updatedAt": "2026-10-03T08:58:44.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.3685,
+              11.6985
+            ],
+            [
+              122.37299999999999,
+              11.6985
+            ],
+            [
+              122.37299999999999,
+              11.7015
+            ],
+            [
+              122.3685,
+              11.7015
+            ],
+            [
+              122.3685,
+              11.6985
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "78d08294-059c-4d2b-af6d-20cd56a4b14b",
+        "kind": "zone",
+        "name": "Demo agricultural zone",
+        "municipality": "Kalibo",
+        "barangay": "",
+        "reference": "SYNTHETIC",
+        "category": "Agricultural",
+        "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+        "sourceDate": "2026-10-03",
+        "verification": "draft",
+        "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+        "demo": true,
+        "createdAt": "2026-10-03T08:58:44.331Z",
+        "updatedAt": "2026-10-03T08:58:44.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.369,
+              11.6988
+            ],
+            [
+              122.3708,
+              11.6988
+            ],
+            [
+              122.3708,
+              11.700000000000001
+            ],
+            [
+              122.369,
+              11.700000000000001
+            ],
+            [
+              122.369,
+              11.6988
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "03c2883e-7e3d-43bb-9bc4-28fcab727da6",
+        "kind": "hazard",
+        "name": "Demo flood overlay",
+        "municipality": "Kalibo",
+        "barangay": "",
+        "reference": "SYNTHETIC",
+        "category": "Flood",
+        "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+        "sourceDate": "2026-10-03",
+        "verification": "draft",
+        "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+        "demo": true,
+        "createdAt": "2026-10-03T08:58:44.331Z",
+        "updatedAt": "2026-10-03T08:58:44.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.3625,
+              11.6982
+            ],
+            [
+              122.363305,
+              11.69814
+            ],
+            [
+              122.36364999999999,
+              11.698377
+            ],
+            [
+              122.363512,
+              11.69879
+            ],
+            [
+              122.3629025,
+              11.698830000000001
+            ],
+            [
+              122.36242,
+              11.6985835
+            ],
+            [
+              122.3625,
+              11.6982
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "56d79890-ec9f-40ad-8066-188ba9d44369",
+        "kind": "parcel",
+        "name": "Demo parcel 03",
+        "municipality": "Kalibo",
+        "barangay": "",
+        "reference": "SYNTHETIC",
+        "category": "Agricultural",
+        "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+        "sourceDate": "2026-10-03",
+        "verification": "draft",
+        "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+        "demo": true,
+        "createdAt": "2026-10-03T08:58:44.331Z",
+        "updatedAt": "2026-10-03T08:58:44.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.36375,
+              11.6982
+            ],
+            [
+              122.364555,
+              11.69814
+            ],
+            [
+              122.36489999999999,
+              11.698377
+            ],
+            [
+              122.364762,
+              11.69879
+            ],
+            [
+              122.3641525,
+              11.698830000000001
+            ],
+            [
+              122.36367,
+              11.6985835
+            ],
+            [
+              122.36375,
+              11.6982
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "37fdb87e-1260-4d59-8b16-33a197f43a46",
+        "kind": "parcel",
+        "name": "Demo parcel 04",
+        "municipality": "Kalibo",
+        "barangay": "",
+        "reference": "SYNTHETIC",
+        "category": "Agricultural",
+        "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+        "sourceDate": "2026-10-03",
+        "verification": "draft",
+        "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+        "demo": true,
+        "createdAt": "2026-10-03T08:58:44.331Z",
+        "updatedAt": "2026-10-03T08:58:44.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.365,
+              11.6982
+            ],
+            [
+              122.365805,
+              11.69814
+            ],
+            [
+              122.36614999999999,
+              11.698377
+            ],
+            [
+              122.366012,
+              11.69879
+            ],
+            [
+              122.3654025,
+              11.698830000000001
+            ],
+            [
+              122.36492,
+              11.6985835
+            ],
+            [
+              122.365,
+              11.6982
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "a0df646a-5456-4b0a-bc5a-c6ef529424a5",
+        "kind": "parcel",
+        "name": "Demo parcel 05",
+        "municipality": "Kalibo",
+        "barangay": "",
+        "reference": "SYNTHETIC",
+        "category": "Agricultural",
+        "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+        "sourceDate": "2026-10-03",
+        "verification": "draft",
+        "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+        "demo": true,
+        "createdAt": "2026-10-03T08:58:44.331Z",
+        "updatedAt": "2026-10-03T08:58:44.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.36265999999999,
+              11.69887
+            ],
+            [
+              122.36346499999999,
+              11.69881
+            ],
+            [
+              122.36380999999999,
+              11.699047
+            ],
+            [
+              122.363672,
+              11.69946
+            ],
+            [
+              122.3630625,
+              11.6995
+            ],
+            [
+              122.36258,
+              11.6992535
+            ],
+            [
+              122.36265999999999,
+              11.69887
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "949cc05f-9569-4e7a-9fc1-b116e0ea2620",
+        "kind": "parcel",
+        "name": "Demo parcel 06",
+        "municipality": "Kalibo",
+        "barangay": "",
+        "reference": "SYNTHETIC",
+        "category": "Agricultural",
+        "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+        "sourceDate": "2026-10-03",
+        "verification": "draft",
+        "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+        "demo": true,
+        "createdAt": "2026-10-03T08:58:44.331Z",
+        "updatedAt": "2026-10-03T08:58:44.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.36390999999999,
+              11.69887
+            ],
+            [
+              122.36471499999999,
+              11.69881
+            ],
+            [
+              122.36505999999999,
+              11.699047
+            ],
+            [
+              122.36492199999999,
+              11.69946
+            ],
+            [
+              122.3643125,
+              11.6995
+            ],
+            [
+              122.36383,
+              11.6992535
+            ],
+            [
+              122.36390999999999,
+              11.69887
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "77371763-fe83-4bbd-b67e-49c0d5678d6e",
+        "kind": "parcel",
+        "name": "Demo parcel 07",
+        "municipality": "Kalibo",
+        "barangay": "",
+        "reference": "SYNTHETIC",
+        "category": "Agricultural",
+        "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+        "sourceDate": "2026-10-03",
+        "verification": "draft",
+        "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+        "demo": true,
+        "createdAt": "2026-10-03T08:58:44.331Z",
+        "updatedAt": "2026-10-03T08:58:44.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.36515999999999,
+              11.69887
+            ],
+            [
+              122.36596499999999,
+              11.69881
+            ],
+            [
+              122.36630999999998,
+              11.699047
+            ],
+            [
+              122.36617199999999,
+              11.69946
+            ],
+            [
+              122.3655625,
+              11.6995
+            ],
+            [
+              122.36507999999999,
+              11.6992535
+            ],
+            [
+              122.36515999999999,
+              11.69887
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "c73e04e2-bc8d-49d5-b993-599c61e507da",
+        "kind": "parcel",
+        "name": "Demo parcel 08",
+        "municipality": "Kalibo",
+        "barangay": "",
+        "reference": "SYNTHETIC",
+        "category": "Agricultural",
+        "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+        "sourceDate": "2026-10-03",
+        "verification": "draft",
+        "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+        "demo": true,
+        "createdAt": "2026-10-03T08:58:44.331Z",
+        "updatedAt": "2026-10-03T08:58:44.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.36282,
+              11.69954
+            ],
+            [
+              122.363625,
+              11.699480000000001
+            ],
+            [
+              122.36397,
+              11.699717000000001
+            ],
+            [
+              122.363832,
+              11.700130000000001
+            ],
+            [
+              122.3632225,
+              11.700170000000002
+            ],
+            [
+              122.36274,
+              11.6999235
+            ],
+            [
+              122.36282,
+              11.69954
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "2848aed9-8392-46a4-ac58-34c124bf9d12",
+        "kind": "parcel",
+        "name": "Demo parcel 09",
+        "municipality": "Kalibo",
+        "barangay": "",
+        "reference": "SYNTHETIC",
+        "category": "Agricultural",
+        "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+        "sourceDate": "2026-10-03",
+        "verification": "draft",
+        "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+        "demo": true,
+        "createdAt": "2026-10-03T08:58:44.331Z",
+        "updatedAt": "2026-10-03T08:58:44.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.36407,
+              11.69954
+            ],
+            [
+              122.364875,
+              11.699480000000001
+            ],
+            [
+              122.36522,
+              11.699717000000001
+            ],
+            [
+              122.365082,
+              11.700130000000001
+            ],
+            [
+              122.3644725,
+              11.700170000000002
+            ],
+            [
+              122.36399,
+              11.6999235
+            ],
+            [
+              122.36407,
+              11.69954
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "9cda76e9-2983-4834-bba2-58f84d1ad84f",
+        "kind": "parcel",
+        "name": "Demo parcel 10",
+        "municipality": "Kalibo",
+        "barangay": "",
+        "reference": "SYNTHETIC",
+        "category": "Agricultural",
+        "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+        "sourceDate": "2026-10-03",
+        "verification": "draft",
+        "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+        "demo": true,
+        "createdAt": "2026-10-03T08:58:44.331Z",
+        "updatedAt": "2026-10-03T08:58:44.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.36532,
+              11.69954
+            ],
+            [
+              122.366125,
+              11.699480000000001
+            ],
+            [
+              122.36646999999999,
+              11.699717000000001
+            ],
+            [
+              122.366332,
+              11.700130000000001
+            ],
+            [
+              122.3657225,
+              11.700170000000002
+            ],
+            [
+              122.36524,
+              11.6999235
+            ],
+            [
+              122.36532,
+              11.69954
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "be94ec3a-d3d3-4426-98f4-0f369514d7d1",
+        "kind": "parcel",
+        "name": "Demo parcel 11",
+        "municipality": "Kalibo",
+        "barangay": "",
+        "reference": "SYNTHETIC",
+        "category": "Agricultural",
+        "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+        "sourceDate": "2026-10-03",
+        "verification": "draft",
+        "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+        "demo": true,
+        "createdAt": "2026-10-03T08:58:44.331Z",
+        "updatedAt": "2026-10-03T08:58:44.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.36298,
+              11.70021
+            ],
+            [
+              122.363785,
+              11.70015
+            ],
+            [
+              122.36412999999999,
+              11.700387000000001
+            ],
+            [
+              122.363992,
+              11.700800000000001
+            ],
+            [
+              122.3633825,
+              11.700840000000001
+            ],
+            [
+              122.3629,
+              11.7005935
+            ],
+            [
+              122.36298,
+              11.70021
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "d8b2a6b3-7eb4-41b1-b582-179d6c4fca1a",
+        "kind": "parcel",
+        "name": "Demo parcel 12",
+        "municipality": "Kalibo",
+        "barangay": "",
+        "reference": "SYNTHETIC",
+        "category": "Agricultural",
+        "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+        "sourceDate": "2026-10-03",
+        "verification": "draft",
+        "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+        "demo": true,
+        "createdAt": "2026-10-03T08:58:44.331Z",
+        "updatedAt": "2026-10-03T08:58:44.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.36422999999999,
+              11.70021
+            ],
+            [
+              122.36503499999999,
+              11.70015
+            ],
+            [
+              122.36537999999999,
+              11.700387000000001
+            ],
+            [
+              122.365242,
+              11.700800000000001
+            ],
+            [
+              122.3646325,
+              11.700840000000001
+            ],
+            [
+              122.36415,
+              11.7005935
+            ],
+            [
+              122.36422999999999,
+              11.70021
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "4111e632-9944-468e-8e51-34e243762bce",
+        "kind": "parcel",
+        "name": "Demo parcel 13",
+        "municipality": "Kalibo",
+        "barangay": "",
+        "reference": "SYNTHETIC",
+        "category": "Agricultural",
+        "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+        "sourceDate": "2026-10-03",
+        "verification": "draft",
+        "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+        "demo": true,
+        "createdAt": "2026-10-03T08:58:44.331Z",
+        "updatedAt": "2026-10-03T08:58:44.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.36547999999999,
+              11.70021
+            ],
+            [
+              122.36628499999999,
+              11.70015
+            ],
+            [
+              122.36662999999999,
+              11.700387000000001
+            ],
+            [
+              122.366492,
+              11.700800000000001
+            ],
+            [
+              122.3658825,
+              11.700840000000001
+            ],
+            [
+              122.3654,
+              11.7005935
+            ],
+            [
+              122.36547999999999,
+              11.70021
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "48f4b202-24f5-4318-b157-6b8f99de28d4",
+        "kind": "parcel",
+        "name": "Demo parcel 14",
+        "municipality": "Kalibo",
+        "barangay": "",
+        "reference": "SYNTHETIC",
+        "category": "Agricultural",
+        "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+        "sourceDate": "2026-10-03",
+        "verification": "draft",
+        "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+        "demo": true,
+        "createdAt": "2026-10-03T08:58:44.331Z",
+        "updatedAt": "2026-10-03T08:58:44.331Z"
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1121a3d4-2f36-4442-b9f6-158ad2e4bcee",
+      "parcelId": "94ca409b-80bd-4965-a179-1f025cf81a4f",
+      "parcelName": "Demo parcel 01",
+      "recordSnapshot": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                122.367,
+                11.699
+              ],
+              [
+                122.37,
+                11.699
+              ],
+              [
+                122.37,
+                11.701
+              ],
+              [
+                122.367,
+                11.701
+              ],
+              [
+                122.367,
+                11.699
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "id": "94ca409b-80bd-4965-a179-1f025cf81a4f",
+          "kind": "parcel",
+          "name": "Demo parcel 01",
+          "municipality": "Kalibo",
+          "barangay": "",
+          "reference": "SYNTHETIC",
+          "category": "Unknown",
+          "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+          "sourceDate": "2026-10-03",
+          "verification": "draft",
+          "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+          "demo": true,
+          "createdAt": "2026-10-03T08:58:44.307Z",
+          "updatedAt": "2026-10-03T08:58:44.307Z"
+        }
+      },
+      "datasetSnapshot": [
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  122.3665,
+                  11.6985
+                ],
+                [
+                  122.3685,
+                  11.6985
+                ],
+                [
+                  122.3685,
+                  11.7015
+                ],
+                [
+                  122.3665,
+                  11.7015
+                ],
+                [
+                  122.3665,
+                  11.6985
+                ]
+              ]
+            ]
+          },
+          "properties": {
+            "id": "5fbcc135-355a-4e42-babf-1527a4b2af1c",
+            "kind": "zone",
+            "name": "Demo residential zone",
+            "municipality": "Kalibo",
+            "barangay": "",
+            "reference": "SYNTHETIC",
+            "category": "Residential",
+            "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+            "sourceDate": "2026-10-03",
+            "verification": "draft",
+            "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+            "demo": true,
+            "createdAt": "2026-10-03T08:58:44.331Z",
+            "updatedAt": "2026-10-03T08:58:44.331Z"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  122.3685,
+                  11.6985
+                ],
+                [
+                  122.37299999999999,
+                  11.6985
+                ],
+                [
+                  122.37299999999999,
+                  11.7015
+                ],
+                [
+                  122.3685,
+                  11.7015
+                ],
+                [
+                  122.3685,
+                  11.6985
+                ]
+              ]
+            ]
+          },
+          "properties": {
+            "id": "78d08294-059c-4d2b-af6d-20cd56a4b14b",
+            "kind": "zone",
+            "name": "Demo agricultural zone",
+            "municipality": "Kalibo",
+            "barangay": "",
+            "reference": "SYNTHETIC",
+            "category": "Agricultural",
+            "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+            "sourceDate": "2026-10-03",
+            "verification": "draft",
+            "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+            "demo": true,
+            "createdAt": "2026-10-03T08:58:44.331Z",
+            "updatedAt": "2026-10-03T08:58:44.331Z"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  122.369,
+                  11.6988
+                ],
+                [
+                  122.3708,
+                  11.6988
+                ],
+                [
+                  122.3708,
+                  11.700000000000001
+                ],
+                [
+                  122.369,
+                  11.700000000000001
+                ],
+                [
+                  122.369,
+                  11.6988
+                ]
+              ]
+            ]
+          },
+          "properties": {
+            "id": "03c2883e-7e3d-43bb-9bc4-28fcab727da6",
+            "kind": "hazard",
+            "name": "Demo flood overlay",
+            "municipality": "Kalibo",
+            "barangay": "",
+            "reference": "SYNTHETIC",
+            "category": "Flood",
+            "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+            "sourceDate": "2026-10-03",
+            "verification": "draft",
+            "notes": "Demonstrates the workflow only. The polygons do not describe real property or hazard conditions.",
+            "demo": true,
+            "createdAt": "2026-10-03T08:58:44.331Z",
+            "updatedAt": "2026-10-03T08:58:44.331Z"
+          }
+        }
+      ],
+      "note": "Synthetic example: parcel area splits across two draft zone polygons. No legal zoning decision or real hazard assessment is represented.",
+      "author": "Demo reviewer",
+      "status": "draft",
+      "createdAt": "2026-10-03T08:58:44.340Z",
+      "finding": "Demonstration only",
+      "analysis": {
+        "area": 72644.69707084532,
+        "zones": [
+          {
+            "name": "Demo agricultural zone",
+            "category": "Agricultural",
+            "percent": 50.00000000042594,
+            "area": 36322.34853573208,
+            "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+            "demo": true
+          },
+          {
+            "name": "Demo residential zone",
+            "category": "Residential",
+            "percent": 49.99999999957406,
+            "area": 36322.34853511323,
+            "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+            "demo": true
+          }
+        ],
+        "hazards": [
+          {
+            "name": "Demo flood overlay",
+            "category": "Flood",
+            "percent": 16.66669678655222,
+            "area": 12107.471392307169,
+            "source": "Synthetic demonstration geometry; not a real lot or zoning record",
+            "demo": true
+          }
+        ],
+        "zoneCoverage": 100,
+        "conflictingZones": false,
+        "finding": "Demonstration only",
+        "warnings": [
+          "Hazard coverage is not certified complete. No overlap means no mapped overlap, not proof of safety.",
+          "This parcel geometry is a draft, not a certified cadastral boundary."
+        ]
+      }
+    }
+  ]
+}
