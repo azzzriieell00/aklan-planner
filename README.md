@@ -6,6 +6,10 @@ The map layout is inspired by the supplied Zonify photographs. This project uses
 
 ## Demo
 
+**[Open the live demo →](https://azzzriieell00.github.io/aklan-planner/)**
+
+Use Aklan Planner directly in your browser. Choose **Demo** to explore the sample parcels and satellite map, or **My GIS** to draw your own draft boundaries. Your records stay in your browser; use **Backup** to export a copy.
+
 ![Aklan Planner satellite map, yellow demo parcel outlines, parcel popup, and right-hand layer panel](docs/images/demo.jpg)
 
 *Imagery credit: Source: Esri, Vantor, Earthstar Geographics, and the GIS User Community. Boundaries: geoBoundaries / NAMRIA / PSA / OCHA, 2020 reference. Outlined demo lots are synthetic.*
@@ -22,7 +26,7 @@ Run the app locally, then click **Demo**:
 
 Also included: [demo GeoJSON](docs/demo.geojson), [demo workspace backup](docs/demo-workspace.json), and a [sample review report](docs/demo-review.html). The GeoJSON imports alongside existing data. Restoring the demo workspace **replaces** the current workspace, so export a backup first.
 
-There is no public live-demo URL yet. An optional GitHub Pages workflow is included below; add the resulting URL to this section after deployment.
+The live demo is hosted on GitHub Pages. The included deployment workflow builds and publishes the app from this repository.
 
 ## Run in Visual Studio Code
 
